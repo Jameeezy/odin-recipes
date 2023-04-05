@@ -1,3 +1,3 @@
 # odin-recipes
-the odin project recipes
-Here is a project showing recipes I have compiled
+The Odin Project Recipes.
+Here is a project showing recipes I have compiled.
